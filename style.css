@@ -65,6 +65,7 @@ p{
 picture, figure{
     text-align: center; 
     display: block;
+    height: 70%;
 }
 h3{
     background-image: linear-gradient(90deg, rgba(60, 217, 131, 0.459), rgb(255, 255, 255));
